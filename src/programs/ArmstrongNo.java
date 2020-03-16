@@ -2,7 +2,7 @@ package programs;
 
 /*
  * Armstrong number is a number that is equal to the sum of cubes of its digits for example
- 0, 1, 153, 370, 371, 407 etc.
+ 0, 1, 153, 370, 371 etc.
  */
 public class ArmstrongNo {
 
